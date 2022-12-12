@@ -1,15 +1,15 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/110976050/207169273-cd054792-29d8-4e39-b79f-c566cd7d4d2b.gif)
-<h1 align="center">Hi <span class="wave">👋</span>, I'm Salwa Ballouti</h1>
+# Welcome to Salwa Ballouti's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h3 align="left">A passionate Web Development from Morocco 🇲🇦, and currently a full-stack student at Microverse. I have a great eagerness to technology, communities, and everything in-between 🙆‍♀️.</h3>
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="280" >
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="290" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salwa99&label=Profile%20views&color=0e75b6&style=flat" alt="salwa99"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salwa99" alt="salwa99"  width="450"/></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, REACT, RUBY, Ruby on Rails, SQL**
+- 🌱 I’m currently learning **HTML, CSS, SASS, JavaScript, REACT, RUBY, Ruby on Rails, SQL**
 
 - 👩‍💻 All of my projects are available at [https://salwa99.github.io/Portfolio/](https://salwa99.github.io/Portfolio/)
 
