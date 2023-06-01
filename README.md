@@ -37,8 +37,8 @@
 
 ### Stats ![robot](https://github.com/Salwa99/Salwa99/assets/110976050/8df2d10d-80e0-4ace-995e-5e326f4c7437) :
 <div id="stats">
-  <img src="https://streak-stats.demolab.com?user=Salwa99&theme=github_dark" width="370" height="100" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salwa99&layout=compact&theme=github_dark" align="left" height="100" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=Salwa99&theme=github_dark" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salwa99&layout=compact&theme=github_dark" align="left" height="180" alt="Top Languages"/>
 </div>
 
 ### Support![growing_heart](https://github.com/Salwa99/Salwa99/assets/110976050/e28c655b-7cfd-4ad9-80a4-c7d611da0579) :
