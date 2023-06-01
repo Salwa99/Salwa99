@@ -1,5 +1,7 @@
 ![Bannière LinkedIn Secteur Technologique Rose et Pêche](https://github.com/Salwa99/Salwa99/assets/110976050/d273ee58-0d8c-4e8d-b4a1-714be323ff1c)
 
+<div style="background: blue;">
+
 # Hello there! ![woman_raising_hand](https://github.com/Salwa99/Salwa99/assets/110976050/443b0d8b-26d7-4078-b5cd-e51f5c0f26ce)
 
 
@@ -40,8 +42,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salwa99&" alt="salwa99" width="400" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salwa99&show_icons=true&locale=en&layout=compact" alt="salwa99" width="600" margin-top="120"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salwa99&show_icons=true&locale=en&layout=compact" alt="salwa99" width="450" margin-top="120"/></p>
 
 ### Support![growing_heart](https://github.com/Salwa99/Salwa99/assets/110976050/e28c655b-7cfd-4ad9-80a4-c7d611da0579)
 
 <p><a href="https://www.buymeacoffee.com/salwaballouti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="salwaballouti" /></a><a href="https://ko-fi.com/salwaballouti"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="salwaballouti" /></a></p><br><br>
+ 
+ </div>
