@@ -6,10 +6,10 @@
 
 
 
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="270" >
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="280" height="250">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salwa99&label=Profile%20views&color=33cccc&style=flat" alt="salwa99"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salwa99&label=Profile%20views&color=33cccc&style=flat" height="30" alt="salwa99"/> </p>
 
 - ![rocket](https://github.com/Salwa99/Salwa99/assets/110976050/06216fcc-5d15-44e9-8af2-f579be71dc58) I’m currently working with **HTML, CSS, JavaScript, REACT, RUBY, ROR, SQL**
 
@@ -43,5 +43,5 @@
 
 ### Support![growing_heart](https://github.com/Salwa99/Salwa99/assets/110976050/e28c655b-7cfd-4ad9-80a4-c7d611da0579) :
 
-<p><a href="https://www.buymeacoffee.com/salwaballouti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="salwaballouti" /></a><a href="https://ko-fi.com/salwaballouti"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="salwaballouti" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/salwaballouti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="salwaballouti" /></a><a href="https://ko-fi.com/salwaballouti"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="180" alt="salwaballouti" /></a></p><br><br>
 
