@@ -6,7 +6,7 @@
 <h5 align="left">I go by the name Salwa Ballouti, a fervent web wizard hailing from the majestic land of Morocco 🇲🇦. Presently, I'm deep-diving into the vast ocean of knowledge as a full-stack web developer. With an insatiable appetite for all things tech and a burning passion for fostering vibrant communities, I thrive in the enchanting realm where technology and human connections intertwine.</h5>
 
 
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="290" >
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="180" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salwa99&label=Profile%20views&color=0e75b6&style=flat" alt="salwa99"/> </p>
