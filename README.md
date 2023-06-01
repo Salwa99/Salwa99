@@ -6,17 +6,17 @@
 
 
 
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="200" >
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="250" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salwa99&label=Profile%20views&color=33cccc&style=flat" alt="salwa99"/> </p>
 
-- ![rocket](https://github.com/Salwa99/Salwa99/assets/110976050/06216fcc-5d15-44e9-8af2-f579be71dc58) I’m currently working with **HTML, CSS, SASS, JavaScript, REACT, RUBY, Ruby on Rails, SQL**
+- ![rocket](https://github.com/Salwa99/Salwa99/assets/110976050/06216fcc-5d15-44e9-8af2-f579be71dc58) I’m currently working with **HTML, CSS, JavaScript, REACT, RUBY, ROR, SQL**
 
 
 - ![light_bulb](https://github.com/Salwa99/Salwa99/assets/110976050/d5ea64a1-0cf0-438e-a42b-dbb99f3799cf) All of my projects are available at [https://salwa99.github.io/Portfolio/]()
 
-- ![thought_balloon](https://github.com/Salwa99/Salwa99/assets/110976050/21a0b373-e420-42c8-a9be-7ad2032422a5) Ask me about **HTML, CSS, JavaScript, React JS, Ruby, ROR, Postgres**
+- ![thought_balloon](https://github.com/Salwa99/Salwa99/assets/110976050/21a0b373-e420-42c8-a9be-7ad2032422a5) Ask me about **HTML, CSS, JS, React JS, Ruby, ROR, Postgres**
 
 
 - ![smiling_face_with_sunglasses](https://github.com/Salwa99/Salwa99/assets/110976050/7603d0b4-79d1-4f0b-9d84-da0d94c8e37c) How to reach me **s.ritage99@gmail.com**
@@ -37,7 +37,7 @@
 
 ### Stats ![robot](https://github.com/Salwa99/Salwa99/assets/110976050/8df2d10d-80e0-4ace-995e-5e326f4c7437) :
 <div id="stats">
-  <img src="https://streak-stats.demolab.com?user=Salwa99&theme=github_dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Salwa99&theme=github_dark" width="350" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salwa99&layout=compact&theme=github_dark" align="left" alt="Top Languages"/>
 </div>
 
