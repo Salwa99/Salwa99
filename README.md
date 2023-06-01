@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salwa99&label=Profile%20views&color=0e75b6&style=flat" alt="salwa99"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salwa99" alt="salwa99"  width="390"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salwa99" alt="salwa99"  width="600"/></a> </p>
 
 - ![rocket](https://github.com/Salwa99/Salwa99/assets/110976050/06216fcc-5d15-44e9-8af2-f579be71dc58) I’m currently working with **HTML, CSS, SASS, JavaScript, REACT, RUBY, Ruby on Rails, SQL**
 
