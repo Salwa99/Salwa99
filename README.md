@@ -14,8 +14,6 @@
 - ![rocket](https://github.com/Salwa99/Salwa99/assets/110976050/06216fcc-5d15-44e9-8af2-f579be71dc58) I’m currently working with **HTML, CSS, JavaScript, REACT, RUBY, ROR, SQL**
 
 
-- ![light_bulb](https://github.com/Salwa99/Salwa99/assets/110976050/d5ea64a1-0cf0-438e-a42b-dbb99f3799cf) All of my projects are available at [https://salwa99.github.io/Portfolio/]()
-
 - ![thought_balloon](https://github.com/Salwa99/Salwa99/assets/110976050/21a0b373-e420-42c8-a9be-7ad2032422a5) Ask me about **HTML, CSS, JS, React JS, Ruby, ROR, Postgres**
 
 
